@@ -53,7 +53,7 @@ body {
     height: 100%;
     position: relative; /* İçindeki pseudo-elementler ve şekiller için konumlandırma bağlamı sağlar */
     overflow: hidden; /* Bu div'den taşan içeriği gizler */
-    opacity: 1;
+   
 }
 
 /* Sol Taraf: Frontend Developerı Simgeliyor (Soluk Kodlar) */
